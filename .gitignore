@@ -1,0 +1,7 @@
+.idea
+# dist
+__snapshots__
+coverage
+node_modules
+# *.bundle.js
+*.log
