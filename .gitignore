@@ -3,5 +3,5 @@
 __snapshots__
 coverage
 node_modules
-# *.bundle.js
+# git@github.com:Max-Sv/youtube-client.git*.bundle.js
 *.log
