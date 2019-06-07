@@ -1,4 +1,4 @@
-My imlementaton - https://max-sv.github.io/youtube-client/index.html
+My imlementaton - https://max-sv.github.io/youtube-client/dist/index.html
 # YouTube client
 
 ### Task:
