@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Max-Sv/youtube-client.git"
+    "url": "git+https://github.com/rolling-scopes-school/Max-Sv-2019Q1.git"
   },
   "author": "Max Sv <mlalx@tut.by>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Max-Sv/youtube-client/issues"
+    "url": "https://github.com/rolling-scopes-school/Max-Sv-2019Q1/issues"
   },
-  "homepage": "https://github.com/Max-Sv/youtube-client#readme",
+  "homepage": "https://github.com/rolling-scopes-school/Max-Sv-2019Q1#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   },

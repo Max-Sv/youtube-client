@@ -4,9 +4,8 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = {
   entry: './src/index.js',
   output: {
-    filename: './app.bundle.js',
-    // path: './',
-    path: path.resolve(__dirname, './'),
+    filename: 'app.bundle.js',
+    path: path.resolve(__dirname, 'dist'),
   },
   devtool: 'source-map',
   module: {
@@ -26,7 +25,6 @@ module.exports = {
     ],
   },
   plugins: [new HtmlWebpackPlugin({
-    template: './index.html',
     title: 'Youtube client',
   })],
 };
